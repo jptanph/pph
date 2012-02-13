@@ -1,0 +1,7 @@
+body{margin:0;}
+#wrapper{width:950px;display:block;text-align:center;margin:0 auto;padding:0;}
+#header{display:block;height:210px;}
+#nav{display:block;}
+#nav ul{display:block;}
+#left{display:inline-block;width:670px;float:left;margin:0 2px 0 0;background:}
+#right{display:inline-block;width:278px;float:left;background:;}
